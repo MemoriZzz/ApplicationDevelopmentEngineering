@@ -1,0 +1,6 @@
+neu,boston
+mit,boston
+havard,boston
+bu,boston
+columbia,new york
+nyu,new york

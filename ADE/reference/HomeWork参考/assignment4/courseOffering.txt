@@ -1,0 +1,58 @@
+1,Monday,java,4.0,1500,master of science,information system,computer&information science,web development,summer
+2,Tuesday,java,4.0,1500,master of science,computer science,engineering,web development,spring
+3,Wednesday,java,4.0,1500,master of science,information system,computer&information science,web development,fall
+4,Thursday,java,4.0,1500,master of science,computer science,engineering,web development,fall
+5,Friday,java,4.0,1500,master of science,information system,computer&information science,program development,summer
+6,Monday,java,4.0,1500,master of science,computer science,engineering,program development,spring
+7,Tuesday,c,4.0,1500,master of science,computer science,computer&information science,program development,spring
+8,Wednesday,c,4.0,1500,master of science,information system,engineering,program development,spring
+9,Monday,c,4.0,1450,master of science,computer science,computer&information science,web development,fall
+10,Tuesday,c,4.0,1450,master of science,computer science,engineering,web development,summer
+11,Wednesday,c,4.0,1450,master of science,information system,computer&information science,web development,fall
+12,Thursday,c,4.0,1450,master of science,information system,engineering,web development,fall
+13,Friday,c++,4.0,1450,master of science,computer science,computer&information science,software development,spring
+14,Friday,c++,4.0,1450,master of science,computer science,engineering,software development,spring
+15,Tuesday,python,4.0,1450,master of science,information system,computer&information science,software development,fall
+16,Thursday,c++,4.0,1450,master of science,information system,engineering,software development,fall
+17,Wednesday,python,3.0,1350,master of science,information system,engineering,web development,spring
+18,Monday,c++,4.0,1500,master of science,computer science,engineering,web development,summer
+19,Thursday,probability,4.0,1450,bachelor of science,computer science,engineering,web development,summer
+20,Tuesday,nursing,3.0,1200,master of health,direct entry nursing,health science,doctor assistance,spring
+21,Friday,nursing,3.0,1200,master of health,direct entry nursing,social,doctor assistance,spring
+22,Wednesday,nursing,3.0,1200,master of health,direct entry nursing,health science,patient care,fall
+23,Tuesday,nursing,3.0,1200,master of health,direct entry nursing,social,patient care,fall
+24,Monday,nursing,3.0,1200,bachelor of health,family nurse practitioner ,health science,doctor assistance,summer
+25,Monday,nursing,3.0,1200,bachelor of health,family nurse practitioner,social,doctor assistance,fall
+26,Thursday,nursing,3.0,1200,bachelor of health,family nurse practitioner,health science,patient care,fall
+27,Friday,nursing,3.0,1200,bachelor of health,family nurse practitioner,social,patient care,summer
+28,Friday,pathology,2.0,1000,bachelor of science,physical therapy,health science,research,spring
+29,Thursday,pathology,2.0,1000,bachelor of science,physical therapy,social,research,spring
+30,Friday,pathology,2.0,1000,bachelor of science,physical therapy,health science,practice,spring
+31,Wednesday,pathology,2.0,1000,bachelor of science,physical therapy,social,practice,spring
+32,Monday,pathology,2.0,1000,bachelor of science,chemical therapy,health science,research,fall
+33,Monday,pathology,2.0,1000,bachelor of science,chemical therapy,social,research,fall
+34,Wednesday,pathology,2.0,1000,bachelor of science,chemical therapy,health science,practice,fall
+35,Friday,pathology,2.0,1000,bachelor of science,chemical therapy,social,practice,fall
+36,Thursday,general biology,3.0,1300,bachelor of science,pharmacy,health science,research,spring
+37,Monday,c,3.0,1300,bachelor of art,game design,engineering,game development,spring
+38,Monday,literature,3.0,1300,master of art,Chinese literature research,Academy of language,essay writing,fall
+39,Tuesday,literature,3.0,1300,master of art,English literature research,Academy of language,essay writing,fall
+40,Wednesday,literature,3.0,1300,master of art,Chinese literature research,Academy of language,literature appreciation ,fall
+41,Wednesday,literature,3.0,1300,master of art,English literature research,Academy of language,literature appreciation,fall
+42,Friday,literature,3.0,1300,master of art,Chinese literature research,Academy of Arts,essay writing,spring
+43,Friday,literature,3.0,1300,master of art,English literature research,Academy of Arts,essay writing,spring
+44,Thursday,literature,3.0,1300,master of art,Chinese literature research,Academy of Arts,literature appreciation,spring
+45,Friday,literature,3.0,1300,master of art,English literature research,Academy of Arts,literature appreciation,spring
+46,Monday,Sketch,2.0,1200,master of Art,Painting,Academy of Arts,painting skills development,fall
+47,Monday,Tango,3.0,1800,bachelor of Art,Dancing, Academy of Arts,dancing skills development,fall
+48,Wednesday,European music history,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer,spring
+49,Thursday,European music history,4.0,2400,bachelor of Art,singing,Academy of Arts,singer,spring
+50,Friday,Singing skills,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer,spring
+51,Wednesday,Singing skills,4.0,2400,bachelor of Art,singing,Academy of Arts,singer,fall
+52,Friday,European music history,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer song writer,fall
+53,Tuesday,European music history,4.0,2400,bachelor of Art,singing,Academy of Arts,singer song writer,fall
+54,Tuesday,Singing skills,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer song writer,fall
+55,Tuesday,Singing skills,4.0,2400,bachelor of Art,singing,Academy of Arts,singer song writer,spring
+56,Tuesday,Criminal Justice,4.0,2400,bachelor,criminal law,Academy of Law,lawyer,spring
+57,Wednesday,Law and Environmental Law and Policy,3.0,1800,master,social law,Academy of Law,lawyer,spring
+58,Friday,Law and Music Industry Leadership,4.0,2400,master,criminal law ,Academy of Law,lawyer,fall

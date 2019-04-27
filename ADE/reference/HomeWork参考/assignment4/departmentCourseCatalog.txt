@@ -1,0 +1,27 @@
+information system,web development
+computer science,web development
+information system,program development
+computer science,program development
+direct entry nursing,doctor assistance
+direct entry nursing,patient care
+family nurse practitioner,doctor assistance
+family nurse practitioner,patient care
+physical therapy,health science,research
+physical therapy,practice
+chemical therapy,research
+chemical therapy,practice
+general biology,research
+game design,game development
+Chinese literature research,essay writing
+English literature research,essay writing
+Chinese literature research,literature appreciation 
+English literature research,literature appreciation
+Painting,painting skills development
+Dancing,dancing skills development
+Music composing,singer
+singing,singer
+Music composing,singer
+Music composing,singer song writer
+singing,,singer song writer
+criminal law,lawyer
+social law,lawyer

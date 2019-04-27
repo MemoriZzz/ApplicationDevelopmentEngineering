@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="toolTipText" type="java.lang.String" value="Resume Create"/>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="majorLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="careerObjectiveStatementLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="firstNameLabel" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="firstNameTextField" min="-2" pref="139" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="LastNameLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sexLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="affiliationLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="dobLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="workYearLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="ageLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="ageTextField" pref="138" max="32767" attributes="0"/>
+                                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="sexTextField" pref="138" max="32767" attributes="0"/>
+                                      <Component id="lastNameTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="affiliationTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="majorTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="dobTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="workYearTextField" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="jScrollPane2" max="32767" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="EducationLabel" min="-2" max="-2" attributes="0"/>
+                  <Component id="adressLabel" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="degreeDate1Label" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Component id="degreeDate1TextField" min="-2" pref="138" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="degree2Label" min="-2" max="-2" attributes="0"/>
+                          <Component id="degreeDate2Label" min="-2" max="-2" attributes="0"/>
+                          <Component id="streetln2Label" min="-2" max="-2" attributes="0"/>
+                          <Component id="cityLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="countryLabel" min="-2" max="-2" attributes="0"/>
+                          <Component id="degree1Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="streetli1Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="streetln2TextField" min="-2" pref="138" max="-2" attributes="0"/>
+                                  <Component id="degreeDate2TextField" min="-2" pref="138" max="-2" attributes="0"/>
+                                  <Component id="cityTextField" alignment="0" min="-2" pref="138" max="-2" attributes="0"/>
+                                  <Component id="countryTextField" alignment="0" min="-2" pref="138" max="-2" attributes="0"/>
+                                  <Component id="streetln1TextField" min="-2" pref="138" max="-2" attributes="0"/>
+                                  <Component id="degree2TextField" min="-2" pref="138" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Component id="degree1TextField" min="-2" pref="138" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="20" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="createButton" min="-2" max="-2" attributes="0"/>
+                  <Component id="pictureLabel1" min="-2" max="-2" attributes="0"/>
+                  <Component id="pictureLabel" min="-2" max="-2" attributes="0"/>
+                  <Component id="addButton" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="firstNameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="firstNameTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="pictureLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="EducationLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                      <Component id="pictureLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                      <Component id="addButton" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lastNameTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="LastNameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="degree1Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="degree1TextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="sexLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="sexTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="degreeDate1Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="degreeDate1TextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="degree2Label" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                                  <Component id="degree2TextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="degreeDate2Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="degreeDate2TextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="ageLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="ageTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="affiliationLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="affiliationTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="majorLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="majorTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="adressLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="dobLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="dobTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="streetli1Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="streetln2TextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="workYearLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="workYearTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="streetln2Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="cityTextField" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                              <Component id="cityLabel" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="countryLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="careerObjectiveStatementLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Component id="countryTextField" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="streetln1TextField" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="207" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="createButton" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="326" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="firstNameLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Firstname:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LastNameLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lastname:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="sexLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sex:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ageLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Age:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="affiliationLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Affiliation:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="pictureLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Picture:"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="careerObjectiveStatementTextArea">
+          <Properties>
+            <Property name="columns" type="int" value="10"/>
+            <Property name="rows" type="int" value="20"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="firstNameTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="lastNameTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="sexTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ageTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="affiliationTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="streetli1Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Streetln1:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="cityLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="City:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="countryLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Country:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="adressLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="streetln1TextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="cityTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="streetln2TextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="countryTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="dobLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="DOB:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="dobTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="streetln2Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Streeln2:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="EducationLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Education:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="degree2Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="degree2:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="degreeDate1Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="degreeDate1:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="degree1Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="degree1:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="degree1TextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="degreeDate1TextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="degree2TextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="degreeDate2TextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="degreeDate2Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="degreeDate2:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="majorLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Major:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="majorTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="workYearLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="workYear:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="workYearTextField">
+    </Component>
+    <Component class="javax.swing.JButton" name="createButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Sans" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="create"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="createButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="addButton">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="add"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="addButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="pictureLabel1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/UI/default.jpg"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="careerObjectiveStatementLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CareerObjevtiveStatement:"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

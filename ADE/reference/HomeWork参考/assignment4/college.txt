@@ -1,0 +1,8 @@
+engineering,neu
+science,neu
+art,neu
+business,neu
+health,neu
+engineering,bu
+art,bu
+business,mit

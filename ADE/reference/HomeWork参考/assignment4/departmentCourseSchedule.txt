@@ -1,0 +1,58 @@
+information system,summer
+computer science,spring
+information system,fall
+computer science,fall
+information system,summer
+computer science,spring
+computer science,spring
+information system,spring
+computer science,fall
+computer science,summer
+information system,fall
+information system,fall
+computer science,spring
+computer science,spring
+information system,fall
+information system,engineering,fall
+information system,engineering,spring
+computer science,summer
+computer science,engineering,summer
+direct entry nursing,spring
+direct entry nursing,spring
+direct entry nursing,fall
+direct entry nursing,social,fall
+family nurse practitioner,summer
+family nurse practitioner,fall
+family nurse practitioner,fall
+family nurse practitioner,summer
+physical therapy,spring
+physical therapy,spring
+physical therapy,spring
+physical therapy,spring
+chemical therapy,fall
+chemical therapy,fall
+chemical therapy,fall
+chemical therapy,fall
+pharmacy,spring
+game design,spring
+Chinese literature research,fall
+English literature research,fall
+Chinese literature research,fall
+English literature research,fall
+Chinese literature research,spring
+English literature research,spring
+Chinese literature research,spring
+English literature research,spring
+Painting,fall
+Dancing,fall
+Music composing,spring
+singing,spring
+Music composing,spring
+singing,fall
+Music composing,fall
+singing,fall
+Music composing,fall
+singing,spring
+criminal law,spring
+social law,spring
+criminal law,fall

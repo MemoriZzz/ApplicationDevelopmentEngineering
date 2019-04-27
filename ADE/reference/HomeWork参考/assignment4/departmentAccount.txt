@@ -1,0 +1,7 @@
+information system,good,engineering
+game design,good,art
+product management,good,business
+physical therapy,pass,health
+theatre,well,art
+computer science,well,engineering
+me,fail,engineering

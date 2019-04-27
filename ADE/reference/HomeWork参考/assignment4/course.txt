@@ -1,0 +1,58 @@
+java,4.0,1500,master of science,information system,computer&information science,web development
+java,4.0,1500,master of science,computer science,engineering,web development
+java,4.0,1500,master of science,information system,computer&information science,web development
+java,4.0,1500,master of science,computer science,engineering,web development
+java,4.0,1500,master of science,information system,computer&information science,program development
+java,4.0,1500,master of science,computer science,engineering,program development
+java,4.0,1500,master of science,computer science,computer&information science,program development
+java,4.0,1500,master of science,information system,engineering,program development
+c,4.0,1450,master of science,computer science,computer&information science,web development
+c,4.0,1450,master of science,computer science,engineering,web development
+c,4.0,1450,master of science,information system,computer&information science,web development
+c,4.0,1450,master of science,information system,engineering,web development
+c,4.0,1450,master of science,computer science,computer&information science,software development
+c,4.0,1450,master of science,computer science,engineering,software development
+c,4.0,1450,master of science,information system,computer&information science,software development
+c,4.0,1450,master of science,information system,engineering,software development
+python,3.0,1350,master of science,information system,engineering,web development
+c++,4.0,1500,master of science,computer science,engineering,web development
+probability,4.0,1450,bachelor of science,computer science,engineering,web development
+nursing,3.0,1200,master of health,direct entry nursing,health science,doctor assistance
+nursing,3.0,1200,master of health,direct entry nursing,social,doctor assistance
+nursing,3.0,1200,master of health,direct entry nursing,health science,patient care
+nursing,3.0,1200,master of health,direct entry nursing,social,patient care
+nursing,3.0,1200,bachelor of health,family nurse practitioner ,health science,doctor assistance
+nursing,3.0,1200,bachelor of health,family nurse practitioner,social,doctor assistance
+nursing,3.0,1200,bachelor of health,family nurse practitioner,health science,patient care
+nursing,3.0,1200,bachelor of health,family nurse practitioner,social,patient care
+pathology,2.0,1000,bachelor of science,physical therapy,health science,research
+pathology,2.0,1000,bachelor of science,physical therapy,social,research
+pathology,2.0,1000,bachelor of science,physical therapy,health science,practice
+pathology,2.0,1000,bachelor of science,physical therapy,social,practice
+pathology,2.0,1000,bachelor of science,chemical therapy,health science,research
+pathology,2.0,1000,bachelor of science,chemical therapy,social,research
+pathology,2.0,1000,bachelor of science,chemical therapy,health science,practice
+pathology,2.0,1000,bachelor of science,chemical therapy,social,practice
+general biology,3.0,1300,bachelor of science,pharmacy,health science,research
+c,3.0,1300,bachelor of art,game design,engineering,game development
+literature,3.0,1300,master of art,Chinese literature research,Academy of language,essay writing
+literature,3.0,1300,master of art,English literature research,Academy of language,essay writing
+literature,3.0,1300,master of art,Chinese literature research,Academy of language,literature appreciation 
+literature,3.0,1300,master of art,English literature research,Academy of language,literature appreciation
+literature,3.0,1300,master of art,Chinese literature research,Academy of Arts,essay writing
+literature,3.0,1300,master of art,English literature research,Academy of Arts,essay writing
+literature,3.0,1300,master of art,Chinese literature research,Academy of Arts,literature appreciation 
+literature,3.0,1300,master of art,English literature research,Academy of Arts,literature appreciation
+Sketch,2.0,1200,master of Art,Painting,Academy of Arts,painting skills development
+Tango,3.0,1800,bachelor of Art,Dancing, Academy of Arts,dancing skills development
+European music history,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer
+European music history,4.0,2400,bachelor of Art,singing,Academy of Arts,singer
+Singing skills,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer
+Singing skills,4.0,2400,bachelor of Art,singing,Academy of Arts,singer
+European music history,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer song writer
+European music history,4.0,2400,bachelor of Art,singing,Academy of Arts,singer song writer
+Singing skills,4.0,2400,bachelor of Art,Music composing,Academy of Arts,singer song writer
+Singing skills,4.0,2400,bachelor of Art,singing,Academy of Arts,singer song writer
+Criminal Justice,4.0,2400,bachelor,criminal law,Academy of Law,lawyer
+Law and Environmental Law and Policy,3.0,1800,master,social law,Academy of Law,lawyer
+Law and Music Industry Leadership,4.0,2400,master,criminal law ,Academy of Law,lawyer

@@ -1,0 +1,7 @@
+information system,graduate,engineering
+information system,undergraduate,science
+computer science,graduate,engineering
+nursing,graduate,health
+physical therapy,undergraduate,health
+pharmacy,undergraduate,art
+game design,undergraduate,engineering
